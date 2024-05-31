@@ -9,5 +9,7 @@ Rules:
 
 Dataset:
 https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+Website Deployed:
+https://share.streamlit.io/app/agri-croprecommendation/
 
 Thank you.
