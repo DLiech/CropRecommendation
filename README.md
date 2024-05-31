@@ -7,4 +7,7 @@ Rules:
 6. Sebelum push ke main, pull dulu dari main.
 7. Kalau udah mau push, kasih reviewer, terus kontak gw buat accept.
 
+Dataset:
+https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+
 Thank you.
