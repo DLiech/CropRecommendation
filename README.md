@@ -11,6 +11,6 @@ Dataset:
 https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 Website Deployed:
-https://share.streamlit.io/app/agri-croprecommendation/
+https://agri-croprecommendation.streamlit.app/
 
 Thank you.
