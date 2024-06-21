@@ -10,6 +10,6 @@ Dataset:
 https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
 Website Deployed:
-https://agri-croprecommendation.streamlit.app/ * Deployed and Tried but Streamlit Error
+https://agri-croprecommendation.streamlit.app/ * Deployed and Tried but Streamlit currently error
 
 Thank you.
